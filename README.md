@@ -1,4 +1,4 @@
 # hello-world
-Here is a guy loves shoegaze.\n
-change something\n
-hey hey hey Mr.angry man\n
+Here is a guy loves shoegaze.
+change something
+hey hey hey Mr.angry man
